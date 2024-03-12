@@ -1,43 +1,17 @@
-# InstaPy
+# InstaPy 📸
+
 This is a Python script for automating certain tasks on Instagram using Selenium.
 
-## Disclaimer
+## Disclaimer 🚨
 
 1. **Use Secondary Account:** Do not use your main Instagram account with this script. It's recommended to use a secondary or test account for safety.
 2. **Avoid Spamming:** Respect others' privacy and do not spam without permission. This script is intended for fun and Instagram management purposes only.
 3. **Use Responsibly:** Manage your account easily with the features you like, but remember to use them responsibly.
 4. **Feedback:** If you want to contribute to this project or provide any feedback, feel free to contact the developer via the email mentioned above.
 5. **No Responsibility:** The developer/author of this script will not take any responsibility for any account banning or troubles you may encounter.
-6. **Play Safe:** Enjoy using the script, but always prioritize safety and have fun!
+6. **Play Safe:** Enjoy using the script, but always prioritize safety and have fun! 🎉
 
-## Requirements
-
-1. **Selenium Module:** Ensure you have the Selenium module installed. You can install it via pip:
-
-    ```
-    pip install selenium
-    ```
-
-2. **Chrome Driver:** Download the Chrome Driver from [here](https://chromedriver.chromium.org/downloads) and follow the setup tutorial [here](https://www.youtube.com/watch?v=Xjv1sY630Uc).
-
-## Usage
-
-1. **Clone the Repository:**
-    ```
-    git clone https://github.com/ongcl03/InstaPy.git
-    ```
-
-2. **Navigate to the Directory:**
-    ```
-    cd InstaPy
-    ```
-
-3. **Run the Script:**
-    ```
-    python insta.py
-    ```
-
-## Features
+## Features 🌟
 
 - **Search A Person:** Search for a specific person on Instagram.
 - **Get Profile Information:** Retrieve information from a user's profile.
@@ -60,6 +34,33 @@ This is a Python script for automating certain tasks on Instagram using Selenium
 - **Get Post Like Number:** Get the number of likes on a specific post.
 - **Exit The Program:** Terminate the script.
 
-## Contributing
+## Requirements 📝
+
+1. **Selenium Module:** Ensure you have the Selenium module installed. You can install it via pip:
+
+    ```
+    pip install selenium
+    ```
+
+2. **Chrome Driver:** Download the Chrome Driver from [here](https://chromedriver.chromium.org/downloads) and follow the setup tutorial [here](https://www.youtube.com/watch?v=Xjv1sY630Uc).
+
+## Usage 🚀
+
+1. **Clone the Repository:**
+    ```
+    git clone https://github.com/ongcl03/InstaPy.git
+    ```
+
+2. **Navigate to the Directory:**
+    ```
+    cd InstaPy
+    ```
+
+3. **Run the Script:**
+    ```
+    python insta.py
+    ```
+
+## Contributing 🤝
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or create a pull request.
